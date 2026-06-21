@@ -1,4 +1,4 @@
-<h1> align = "center" >PowerShell Local Groups Management Toolkit</h1>
+<h1 align = "center" >PowerShell Local Groups Management Toolkit</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white">
